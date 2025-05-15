@@ -3,7 +3,7 @@
 # 👨‍💻 Saikrishna Kakumanu — DevOps Wizard & Automation Junkie ⚙️🔥
 
 <p align="center">
-  <img src="media/peace.png" alt="Peace Sign" width="120"/>
+  <img src="media/peace.jpg" alt="Peace Sign" width="120"/>
 </p>
 
 > *“Why do it manually when you can script your way to glory?”* 💻✨  
