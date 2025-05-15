@@ -16,8 +16,8 @@
 - 🛠 Currently breaking and fixing CI/CD with: **GitHub Actions**, **Jenkins**, and **Azure DevOps**  
 - ☁️ Living in the clouds with: **AWS**, **Kubernetes**, **Docker**, **Terraform**, and **Helm**
 - 🔁 Learning the *dark arts* of: **GitOps**, **OpenShift**, and caffeine-fueled automation
-- 📢 Ask me about: DevOps sorcery, cloud chaos, and bash one-liners that work first try 💥
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/saikrishna-kakumanu-853b13243) — I don’t bite 🐍
+- 📢 Ask me about: DevOps sorcery, cloud chaos, and bas3h one-liners that work first try 💥
+- 📫 Reach out via [LinkedIn](www.linkedin.com/in/sai-krishna-kakumanu-853b13243) — I don’t bite 🐍
 
 ---
 
