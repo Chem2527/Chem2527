@@ -40,7 +40,7 @@
 ![Helm](https://img.shields.io/badge/-Helm-0F1689?style=flat&logo=helm&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![OpenShift](https://img.shields.io/badge/-OpenShift-ee0000?style=flat&logo=red-hat-open-shift&logoColor=white)
+
 
 ---
 
