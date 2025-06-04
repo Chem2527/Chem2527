@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me (a.k.a. YAML whisperer)
+##  About Me (a.k.a. YAML whisperer)
 
 - 🛠 Currently breaking and fixing CI/CD with: **GitHub Actions**, **Jenkins**, and **Azure DevOps**  
 - ☁️ Living in the clouds with: **AWS**, **Kubernetes**, **Docker**, **Terraform**, and **Helm**
