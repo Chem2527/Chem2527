@@ -1,6 +1,6 @@
 <!-- WELCOME TO THE CHAOS OF AUTOMATION 🤖 -->
 
-# 👨‍💻 Saikrishna Kakumanu —  Cloud Security & DevOps Wizard & Automation Junkie ⚙️🔥
+# 👨‍💻 Saikrishna Kakumanu —  Cloud Security & DevOps Wizard & Automation Junkie ⚙️
 
 <p align="center">
   <img src="media/peace.jpg" alt="Peace Sign" width="120"/>
